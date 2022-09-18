@@ -23,7 +23,9 @@
 
 效果图展示
 ![image](https://github.com/unkkihere/shuge/blob/master/demostarte/首页1.gif)
-
+![image](https://github.com/unkkihere/shuge/blob/master/demostarte/首页2.gif)
+![image](https://github.com/unkkihere/shuge/blob/master/demostarte/首页3.gif)
+![image](https://cn.bing.com/images/search?view=detailV2&ccid=YHYhkSeH&id=0E5B79D99AA12978029601A7DDBA530425F61E9E&thid=OIP.YHYhkSeH4Tm5u2ax8IK8uQHaE8&mediaurl=https%3a%2f%2fyouimg1.c-ctrip.com%2ftarget%2f10021f000001gxelv1DD4_D_10000_1200.jpg%3fproc%3dautoorient&exph=1200&expw=1797&q=%e9%a3%8e%e6%99%af%e7%85%a7&simid=608031618559715408&FORM=IRPRST&ck=9B98C6F82394180F65E5E9211FAD3BC2&selectedIndex=0&ajaxhist=0&ajaxserp=0)
 
 ## version1.1
 
