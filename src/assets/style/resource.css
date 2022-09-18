@@ -1,0 +1,82 @@
+#wrap{
+    display: flex;
+}
+
+#left{
+    padding: 50px;
+    
+    display: flex;
+    
+    width: 30%;
+}
+
+#left_wrap{
+    margin: auto;
+}
+
+#bigIcon_wrap{
+    margin-bottom: 50px;
+}
+
+.bigIcon{
+    font-size: 50px;
+}
+
+#text_wrap{
+    margin-bottom: 20px;
+}
+
+h3{
+    font-weight: 400;
+    font-size: 35px;
+    color: #111;
+    margin-bottom: 10px;
+}
+
+p{
+    line-height: 21px;
+}
+
+.resource{
+    display: inline-block;
+    
+    
+    height: 18px;
+    padding: 12px 16px 10px;
+
+}
+
+a{
+    color: white;
+}
+
+#right{
+    display: flex;
+    
+    width: 70%;
+}
+
+/* 添加该 div 是为了给背景图片加上阴影效果 */
+.wrap-mask{
+
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, .4);
+
+    display: flex;
+}
+
+.painting-title{
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+    
+    margin:auto;
+    
+}
+
+.painting_wrap{
+
+    background-position: center;
+    background-size: cover;
+}

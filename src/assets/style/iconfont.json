@@ -1,0 +1,107 @@
+{
+  "id": "3209289",
+  "name": "studyTest",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15752908",
+      "name": "帆船",
+      "font_class": "fanchuan",
+      "unicode": "e71b",
+      "unicode_decimal": 59163
+    },
+    {
+      "icon_id": "3834203",
+      "name": "中国结",
+      "font_class": "zhongguojie",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "1305090",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "2199046",
+      "name": "文件上传",
+      "font_class": "wenjianshangchuan",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "3865278",
+      "name": "文件夹",
+      "font_class": "wenjianjia",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "5203299",
+      "name": "太阳",
+      "font_class": "taiyang",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "1079502",
+      "name": "书籍",
+      "font_class": "shuji",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "12655481",
+      "name": "记录",
+      "font_class": "jilu",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "12363343",
+      "name": "古风物件，中国风，文房四宝，砚台，墨砚",
+      "font_class": "gufengwujianzhongguofengwenfangsibaoyantaimoyan_huaban_huaban",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "5618783",
+      "name": "烟花",
+      "font_class": "yanhua",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "8286236",
+      "name": "优选项目实景展示",
+      "font_class": "youxuanxiangmushijingzhanshi",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    },
+    {
+      "icon_id": "28140268",
+      "name": "开放",
+      "font_class": "kaifang",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    },
+    {
+      "icon_id": "12363613",
+      "name": "古风物件，中国风，竹简",
+      "font_class": "gufengwujianzhongguofengzhujian_huaban_huaban_huaban",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "1727425",
+      "name": "206搜索",
+      "font_class": "sousuo",
+      "unicode": "e8ba",
+      "unicode_decimal": 59578
+    }
+  ]
+}

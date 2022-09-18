@@ -1,0 +1,26 @@
+.container_wrap-state2{
+    background: rgba(255, 255, 255, 1) url(../img/he-wu.png);
+    background-repeat: repeat-x;
+}
+
+.underscore-state2{
+    /* -12px 使得下划线靠紧整个导航条下边沿 */
+    top: -12px;
+    transition: top 0.05s linear;
+}
+
+.arrow-state2{
+    width: 0;
+    height: 0;
+    margin: 0 auto;
+    border: 5px solid transparent;
+    border-bottom: 5px solid #e60013;
+}
+
+.line-state2{
+    width: 100%;
+    margin: 0 auto;
+    border-bottom: 2px solid #e60013;
+
+    transition: width 0.05s linear;
+}
