@@ -22,8 +22,10 @@
 基本完成首页UI，后端图片接口的设计，其中图片存储在七牛云中  
 
 效果图展示
-![image](https://raw.githubusercontent.com/unkkihere/shuge/master/demostarte/%E9%A6%96%E9%A1%B51.gif)
-
++ ![image](https://github.com/unkkihere/shuge/blob/master/demostarte/%E9%A6%96%E9%A1%B51.gif)
++ ![image](https://github.com/unkkihere/shuge/blob/master/demostarte/%E9%A6%96%E9%A1%B52.gif)
++ ![image](https://github.com/unkkihere/shuge/blob/master/demostarte/%E9%A6%96%E9%A1%B53.gif)
++ ![image](https://github.com/unkkihere/shuge/blob/master/demostarte/%E9%A6%96%E9%A1%B54.gif)
 
 ## version1.1
 
