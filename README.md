@@ -22,32 +22,7 @@
 基本完成首页UI，后端图片接口的设计，其中图片存储在七牛云中  
 
 效果图展示
-+ ![image](https://github.com/unkkihere/shuge/blob/master/demostarte/%E9%A6%96%E9%A1%B51.gif)
-+ ![image](https://github.com/unkkihere/shuge/blob/master/demostarte/%E9%A6%96%E9%A1%B52.gif)
-+ ![image](https://github.com/unkkihere/shuge/blob/master/demostarte/%E9%A6%96%E9%A1%B53.gif)
-+ ![image](https://github.com/unkkihere/shuge/blob/master/demostarte/%E9%A6%96%E9%A1%B54.gif)
-
-## version1.1
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![image](https://github.com/unkkihere/shuge/blob/master/demostarte/%E9%A6%96%E9%A1%B51.gif)
+![image](https://github.com/unkkihere/shuge/blob/master/demostarte/%E9%A6%96%E9%A1%B52.gif)
+![image](https://github.com/unkkihere/shuge/blob/master/demostarte/%E9%A6%96%E9%A1%B53.gif)
+![image](https://github.com/unkkihere/shuge/blob/master/demostarte/%E9%A6%96%E9%A1%B54.gif)
