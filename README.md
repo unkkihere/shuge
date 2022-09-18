@@ -3,21 +3,21 @@
 
 项目地址：https://github.com/unkkihere/shuge
 
-### 项目技术栈
+### 一、项目技术栈
 #### 后端技术栈
 + Express
 + Mongoose
 + MongoDB
 + ...(待补充)
 
-### 前端技术栈
+#### 前端技术栈
 + Vue2
 + axios
 + amcharts
 + vue-count-to
 + ...(待补充)
 
-### 项目进度
+### 二、项目进度
 #### version 1.1
 基本完成首页UI，后端图片接口的设计，其中图片存储在七牛云中  
 
