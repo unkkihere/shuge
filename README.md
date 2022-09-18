@@ -19,7 +19,8 @@
 
 ### 项目进度
 #### 2022.09.18 
-基本完成首页UI，后端图片接口的设计，其中图片存储在七牛云中
+基本完成首页UI，后端图片接口的设计，其中图片存储在七牛云中  
+
 效果图展示
 ![image](https://github.com/unkkihere/shuge/demostarte/首页1.gif)
 ![image](https://github.com/unkkihere/shuge/demostarte/首页2.gif)
